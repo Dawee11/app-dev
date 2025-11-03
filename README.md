@@ -4,7 +4,8 @@
 - **Genre:** Fantasy, Romance, Action, Historical
 - **Seasons:** 2
 - **Episodes:** S1: 20, S2: 10
-- **Overview:**
+
+### Overview
 ---
 Alchemy Of Souls is set in the fictional kingdom of Daeho, a land where magic exists but is strictly controlled. The story revolves around “alchemy of souls,” a forbidden spell that allows souls to switch bodies.
 The series begins when Naksu, a powerful assassin and mage, is fatally wounded. To survive, she transfers her soul into the weak body of Mu-deok, a blind servant girl. Trapped in a powerless body, Naksu hides her identity while serving Jang Uk, a young noble from a powerful family whose energy flow has been sealed, preventing him from learning magic.
@@ -16,7 +17,8 @@ Jang Uk discovers Mu-deok’s secret and persuades her to become his master, tra
 - **Genre:** Romance Comedy, Historical, Fantasy
 - **Seasons:** 1
 - **Episodes:** 12
-- **Overview:**
+
+### Overview
 ---
 The story centres on Yeon Ji‑yeong (played by Im Yoon‑ah), a modern‐day chef in 2025 specialising in French cuisine. She unexpectedly time-slips back into the Joseon dynasty via a magical cookbook.
 In the past, she meets King Yi Heon (played by Lee Chae‑min), a young monarch known both as the best gourmet and as a tyrant in his kingdom. Her modern cooking catches his attention — and quickly becomes both her salvation and her survival challenge.
